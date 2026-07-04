@@ -8,13 +8,14 @@
 
 
 
-<div align="center">
-  <video src="./assets/NeuProofreader-icme-demo.mp4" controls="controls" width="100%" height="auto" style="max-width: 800px; border-radius: 8px;">
-    Your browser does not support the video tag.
-  </video>
-  <p><em>Click the play button to watch the full system interaction demo.</em></p>
-</div>
+## Demo Video
 
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV165Tf6pEQN/" target="_blank">
+    <img src="https://i1.hdslb.com/bfs/archive/b958f8e362d099e456916931311c6fd16777257a.jpg" alt="Click to watch the demo video on Bilibili" width="100%" style="max-width: 800px; border-radius: 8px;">
+  </a>
+  <p><em>Click the image to watch the full system interaction demo on Bilibili.</em></p>
+</div>
 ---
 
 
