@@ -17,15 +17,6 @@
 
 ---
 
-## Workflow Overview
-
-<div align="center">
-  <img src="./assets/workflow.png" alt="System Workflow Diagram" width="100%" style="max-width: 800px; border-radius: 8px;">
-  <br>
-  <p><em>System workflow diagram illustrating the key components and their interactions.</em></p>
-</div>
-
----
 
 
 
