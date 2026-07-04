@@ -4,8 +4,6 @@
 
 
 
-## Demo Video
-
 
 
 ## Demo Video
@@ -16,6 +14,7 @@
   </a>
   <p><em>Click the image to watch the full system interaction demo on Bilibili.</em></p>
 </div>
+
 ---
 
 
